@@ -1,7 +1,7 @@
 {
   "name": "marnbioinf",
   "version": "0.1.0",
-  "homepage": "https://marnbioinf.github.io/website",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
